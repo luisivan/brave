@@ -1,4 +1,4 @@
-# RIGHTS FOR ANTICIPATED VENTURE EQUITY (RAVE) AGREEMENT
+# Backing Rights For Anticipated Venture Equity Agreement (BRAVE)
 
 THIS AGREEMENT (the "Agreement") is made and entered into on [CURRENT DATE] (the "Effective Date")
 

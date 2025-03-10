@@ -1,10 +1,10 @@
-# SCHEDULE B: VENTURE NOTIFICATION TEMPLATE
+# Schedule B: Venture Notification Template
 
-SUBJECT: RAVE Agreement - New Qualifying Venture Notification: [VENTURE NAME]
+SUBJECT: BRAVE Agreement - New Qualifying Venture Notification: [VENTURE NAME]
 
 Dear [INVESTOR NAME],
 
-Pursuant to Section 4.1 of our RAVE Agreement dated [DATE], I am writing to notify you of the formation of a new Qualifying Venture:
+Pursuant to Section 4.1 of our BRAVE Agreement dated [DATE], I am writing to notify you of the formation of a new Qualifying Venture:
 
 Venture Name: [NAME]
 Date of Formation: [DATE]

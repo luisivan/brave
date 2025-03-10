@@ -1,4 +1,4 @@
-# Backing Rights For Anticipated Venture Equity Agreement (BRAVE)
+# Backing Rights For Anticipated Venture Equity (BRAVE)
 
 ![image](https://github.com/user-attachments/assets/5d8feabd-6597-4b57-a938-8c5cff50922f)
 

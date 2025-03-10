@@ -18,3 +18,5 @@ I drafted this agreement with a school of exceptional soon-to-be founders in min
 The BRAVE agreement is open-source for anyone to use. It still needs legal vetting, but the core idea is there.
 
 Let a thousand teenage founders bloom! 🚀⚔️
+
+_PS: This agreement hasn't been legally vetted, please get it vetted by lawyers before using it!_
